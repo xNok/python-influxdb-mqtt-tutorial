@@ -1,5 +1,7 @@
 # Python MQTT Tutorial - Store IoT Metrics with InfluxDB
 
+[Article for this repo](https://thenewstack.io/python-mqtt-tutorial-store-iot-metrics-with-influxdb/?utm_content=buffer401c3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
 ## Setup
 
 ```
